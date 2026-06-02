@@ -1,4 +1,4 @@
-# TaskFlow API ⚡
+# TaskFlow API 
 
 A production-ready **Task & Project Management REST API** built with Python/Flask, deployed on **AWS EC2** with **S3 file storage**, containerized with **Docker**, and automated via **GitHub Actions CI/CD**.
 
